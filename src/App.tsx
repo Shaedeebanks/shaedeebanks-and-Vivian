@@ -64,15 +64,15 @@ function App() {
 
   const steps = [
     {
-      content: "Hello Esther 💖",
+      content: "Hey Baby 💖",
       image: "/character/one.png",
     },
     {
-      content: "It's been over 2 years with you, and I couldn’t be more grateful for the gift of you, you have been a source of strength and inspiration, and I wouldn't trade them for anything in the world. ❤",
+      content: "It's been over 2 years with you, and our official valentine together, and I couldn’t be more grateful for the gift of you, you have been a source of strength and inspiration, and I wouldn't trade them for anything in the world. ❤",
       image: "/character/two.png",
     },
     {
-      content: "Even though you're far away in Uyo, my heart is always with you. 💕",
+      content: "Even though you're far away in Anambra, my heart is always with you. 💕",
       image: "/character/three.png",
     },
     {
@@ -175,7 +175,7 @@ function App() {
             animate={{ scale: 1 }}
             transition={{ duration: 0.5, type: "spring" }}
           >
-            Hello Esther Touch Anywhere To Begin 💖
+            Hello VIVIAN Touch Anywhere To Begin 💖
           </motion.div>
         </div>
       ) : (
